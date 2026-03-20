@@ -1,0 +1,10 @@
+C:\Users\JianShenChua\Desktop\OSEP_Code\CustomRunSpace\CustomRunSpace\bin\x64\Release\CustomRunSpace.exe.config
+C:\Users\JianShenChua\Desktop\OSEP_Code\CustomRunSpace\CustomRunSpace\bin\x64\Release\CustomRunSpace.exe
+C:\Users\JianShenChua\Desktop\OSEP_Code\CustomRunSpace\CustomRunSpace\bin\x64\Release\CustomRunSpace.pdb
+C:\Users\JianShenChua\Desktop\OSEP_Code\CustomRunSpace\CustomRunSpace\bin\x64\Release\System.Management.Automation.dll
+C:\Users\JianShenChua\Desktop\OSEP_Code\CustomRunSpace\CustomRunSpace\obj\x64\Release\CustomRunSpace.csproj.AssemblyReference.cache
+C:\Users\JianShenChua\Desktop\OSEP_Code\CustomRunSpace\CustomRunSpace\obj\x64\Release\CustomRunSpace.csproj.CoreCompileInputs.cache
+C:\Users\JianShenChua\Desktop\OSEP_Code\CustomRunSpace\CustomRunSpace\obj\x64\Release\CustomRu.A64DED2A.Up2Date
+C:\Users\JianShenChua\Desktop\OSEP_Code\CustomRunSpace\CustomRunSpace\obj\x64\Release\CustomRunSpace.exe
+C:\Users\JianShenChua\Desktop\OSEP_Code\CustomRunSpace\CustomRunSpace\obj\x64\Release\CustomRunSpace.pdb
+C:\Users\JianShenChua\Desktop\OSEP_Code\CustomRunSpace\CustomRunSpace\obj\x64\Release\CustomRunSpace.exe.config

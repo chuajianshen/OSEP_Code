@@ -1,0 +1,7 @@
+C:\Users\JianShenChua\Desktop\OSEP_Code\RDPThief\RDPThief\bin\x64\Release\RDPThief.exe.config
+C:\Users\JianShenChua\Desktop\OSEP_Code\RDPThief\RDPThief\bin\x64\Release\RDPThief.exe
+C:\Users\JianShenChua\Desktop\OSEP_Code\RDPThief\RDPThief\bin\x64\Release\RDPThief.pdb
+C:\Users\JianShenChua\Desktop\OSEP_Code\RDPThief\RDPThief\obj\x64\Release\RDPThief.csproj.AssemblyReference.cache
+C:\Users\JianShenChua\Desktop\OSEP_Code\RDPThief\RDPThief\obj\x64\Release\RDPThief.csproj.CoreCompileInputs.cache
+C:\Users\JianShenChua\Desktop\OSEP_Code\RDPThief\RDPThief\obj\x64\Release\RDPThief.exe
+C:\Users\JianShenChua\Desktop\OSEP_Code\RDPThief\RDPThief\obj\x64\Release\RDPThief.pdb

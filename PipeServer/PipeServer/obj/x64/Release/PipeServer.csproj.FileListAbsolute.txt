@@ -1,0 +1,8 @@
+C:\Users\JianShenChua\Desktop\OSEP_Code\PipeServer\PipeServer\bin\x64\Release\PipeServer.exe.config
+C:\Users\JianShenChua\Desktop\OSEP_Code\PipeServer\PipeServer\bin\x64\Release\PipeServer.exe
+C:\Users\JianShenChua\Desktop\OSEP_Code\PipeServer\PipeServer\bin\x64\Release\PipeServer.pdb
+C:\Users\JianShenChua\Desktop\OSEP_Code\PipeServer\PipeServer\obj\x64\Release\PipeServer.csproj.AssemblyReference.cache
+C:\Users\JianShenChua\Desktop\OSEP_Code\PipeServer\PipeServer\obj\x64\Release\PipeServer.csproj.CoreCompileInputs.cache
+C:\Users\JianShenChua\Desktop\OSEP_Code\PipeServer\PipeServer\obj\x64\Release\PipeServer.exe
+C:\Users\JianShenChua\Desktop\OSEP_Code\PipeServer\PipeServer\obj\x64\Release\PipeServer.pdb
+C:\Users\JianShenChua\Desktop\OSEP_Code\PipeServer\PipeServer\obj\x64\Release\PipeServer.exe.config

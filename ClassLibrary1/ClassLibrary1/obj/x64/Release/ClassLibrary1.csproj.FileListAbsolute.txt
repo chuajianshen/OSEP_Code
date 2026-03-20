@@ -1,0 +1,6 @@
+C:\Users\JianShenChua\Desktop\OSEP_Code\ClassLibrary1\ClassLibrary1\bin\x64\Release\ClassLibrary1.dll
+C:\Users\JianShenChua\Desktop\OSEP_Code\ClassLibrary1\ClassLibrary1\bin\x64\Release\ClassLibrary1.pdb
+C:\Users\JianShenChua\Desktop\OSEP_Code\ClassLibrary1\ClassLibrary1\obj\x64\Release\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\JianShenChua\Desktop\OSEP_Code\ClassLibrary1\ClassLibrary1\obj\x64\Release\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\JianShenChua\Desktop\OSEP_Code\ClassLibrary1\ClassLibrary1\obj\x64\Release\ClassLibrary1.dll
+C:\Users\JianShenChua\Desktop\OSEP_Code\ClassLibrary1\ClassLibrary1\obj\x64\Release\ClassLibrary1.pdb
