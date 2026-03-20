@@ -1,0 +1,15 @@
+\\192.168.45.156\visualstudio\InjectDLL\InjectDLL\bin\x64\Release\InjectDLL.exe.config
+\\192.168.45.156\visualstudio\InjectDLL\InjectDLL\bin\x64\Release\InjectDLL.exe
+\\192.168.45.156\visualstudio\InjectDLL\InjectDLL\bin\x64\Release\InjectDLL.pdb
+\\192.168.45.156\visualstudio\InjectDLL\InjectDLL\obj\x64\Release\InjectDLL.csproj.AssemblyReference.cache
+\\192.168.45.156\visualstudio\InjectDLL\InjectDLL\obj\x64\Release\InjectDLL.csproj.CoreCompileInputs.cache
+\\192.168.45.156\visualstudio\InjectDLL\InjectDLL\obj\x64\Release\InjectDLL.exe
+\\192.168.45.156\visualstudio\InjectDLL\InjectDLL\obj\x64\Release\InjectDLL.pdb
+C:\Users\JianShenChua\Desktop\OSEP_Code\InjectDLL\InjectDLL\bin\x64\Release\InjectDLL.exe.config
+C:\Users\JianShenChua\Desktop\OSEP_Code\InjectDLL\InjectDLL\bin\x64\Release\InjectDLL.exe
+C:\Users\JianShenChua\Desktop\OSEP_Code\InjectDLL\InjectDLL\bin\x64\Release\InjectDLL.pdb
+C:\Users\JianShenChua\Desktop\OSEP_Code\InjectDLL\InjectDLL\obj\x64\Release\InjectDLL.csproj.AssemblyReference.cache
+C:\Users\JianShenChua\Desktop\OSEP_Code\InjectDLL\InjectDLL\obj\x64\Release\InjectDLL.exe.config
+C:\Users\JianShenChua\Desktop\OSEP_Code\InjectDLL\InjectDLL\obj\x64\Release\InjectDLL.csproj.CoreCompileInputs.cache
+C:\Users\JianShenChua\Desktop\OSEP_Code\InjectDLL\InjectDLL\obj\x64\Release\InjectDLL.exe
+C:\Users\JianShenChua\Desktop\OSEP_Code\InjectDLL\InjectDLL\obj\x64\Release\InjectDLL.pdb

@@ -1,0 +1,8 @@
+C:\Users\JianShenChua\Desktop\OSEP_Code\PSExecOwn\PSExecOwn\bin\x64\Release\PSExecOwn.exe.config
+C:\Users\JianShenChua\Desktop\OSEP_Code\PSExecOwn\PSExecOwn\bin\x64\Release\PSExecOwn.exe
+C:\Users\JianShenChua\Desktop\OSEP_Code\PSExecOwn\PSExecOwn\bin\x64\Release\PSExecOwn.pdb
+C:\Users\JianShenChua\Desktop\OSEP_Code\PSExecOwn\PSExecOwn\obj\x64\Release\PSExecOwn.csproj.AssemblyReference.cache
+C:\Users\JianShenChua\Desktop\OSEP_Code\PSExecOwn\PSExecOwn\obj\x64\Release\PSExecOwn.csproj.CoreCompileInputs.cache
+C:\Users\JianShenChua\Desktop\OSEP_Code\PSExecOwn\PSExecOwn\obj\x64\Release\PSExecOwn.exe
+C:\Users\JianShenChua\Desktop\OSEP_Code\PSExecOwn\PSExecOwn\obj\x64\Release\PSExecOwn.pdb
+C:\Users\JianShenChua\Desktop\OSEP_Code\PSExecOwn\PSExecOwn\obj\x64\Release\PSExecOwn.exe.config

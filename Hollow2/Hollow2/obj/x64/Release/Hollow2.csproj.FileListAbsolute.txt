@@ -1,0 +1,8 @@
+C:\Users\JianShenChua\Desktop\OSEP_Code\Hollow2\Hollow2\bin\x64\Release\Hollow2.exe.config
+C:\Users\JianShenChua\Desktop\OSEP_Code\Hollow2\Hollow2\bin\x64\Release\Hollow2.exe
+C:\Users\JianShenChua\Desktop\OSEP_Code\Hollow2\Hollow2\bin\x64\Release\Hollow2.pdb
+C:\Users\JianShenChua\Desktop\OSEP_Code\Hollow2\Hollow2\obj\x64\Release\Hollow2.csproj.AssemblyReference.cache
+C:\Users\JianShenChua\Desktop\OSEP_Code\Hollow2\Hollow2\obj\x64\Release\Hollow2.csproj.CoreCompileInputs.cache
+C:\Users\JianShenChua\Desktop\OSEP_Code\Hollow2\Hollow2\obj\x64\Release\Hollow2.exe
+C:\Users\JianShenChua\Desktop\OSEP_Code\Hollow2\Hollow2\obj\x64\Release\Hollow2.pdb
+C:\Users\JianShenChua\Desktop\OSEP_Code\Hollow2\Hollow2\obj\x64\Release\Hollow2.exe.config
